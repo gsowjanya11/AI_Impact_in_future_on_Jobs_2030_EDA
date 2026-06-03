@@ -1,0 +1,301 @@
+,Job_Title,Industry,Country,Education_Level,Years_Experience,AI_Replacement_Risk,Future_Demand_Score,Remote_Work_Possibility,Average_Salary_USD,Required_Skills,Automation_Level,Job_Growth_2030,Work_Hours_Per_Week,Company_Size,AI_Tool_Usage,Performance_Score,Upskilling_Needed,Job_Satisfaction,Hiring_Trend_2026
+2,HR Specialist,Education,Canada,High School,21,0.8,0.69,Yes,124800,"Kubernetes, Cloud Computing, TensorFlow, SQL, Communication, Cybersecurity",Medium,-5,57,Startup,Low,3.14,No,3.54,Stable
+4,Healthcare Analyst,Education,UAE,PhD,20,0.11,0.92,No,178682,"SQL, Leadership, TensorFlow, Cybersecurity",Low,6,34,Startup,High,3.68,No,3.99,Stable
+9,Product Manager,Education,India,PhD,6,0.86,0.88,Hybrid,48574,"SQL, Deep Learning, Machine Learning",Low,36,59,Enterprise,High,3.42,No,4.23,Declining
+11,Cybersecurity Analyst,Education,UK,PhD,15,0.64,0.63,No,33868,"Azure, Cloud Computing, SQL",Low,45,42,Startup,Low,3.14,No,2.06,Stable
+18,Digital Marketer,Education,UAE,Master,9,0.39,0.23,Yes,153388,"Deep Learning, Communication, Data Visualization, TensorFlow, Excel, SQL",Low,-9,51,Startup,Moderate,2.98,Yes,4.87,Stable
+33,Machine Learning Engineer,Education,Germany,PhD,8,0.22,0.29,Hybrid,170473,"Project Management, Communication, Deep Learning, SQL, Excel",High,38,46,Enterprise,Moderate,4.94,Yes,2.18,Stable
+36,Business Analyst,Education,India,High School,5,0.1,0.96,Yes,56013,"Azure, Project Management, PyTorch, Cybersecurity, Docker, AWS",Low,25,32,Startup,Low,3.23,No,2.17,Declining
+37,HR Specialist,Education,Australia,High School,17,0.88,0.82,Yes,193855,"Project Management, Azure, Machine Learning, Leadership, Cloud Computing",High,-1,59,Medium,Low,2.21,Yes,4.17,Growing
+43,Business Analyst,Education,Japan,PhD,7,0.74,0.5,No,114352,"Cybersecurity, Azure, AWS, Data Visualization, Docker, Communication",Low,10,53,Medium,High,4.74,No,2.54,Growing
+53,Cybersecurity Analyst,Education,Japan,High School,1,0.3,0.96,No,149201,"Cloud Computing, Excel, Docker, Python, Prompt Engineering",Low,-2,55,Enterprise,Low,2.21,Yes,3.35,Declining
+73,Financial Analyst,Education,USA,Master,3,0.39,0.51,Hybrid,51392,"Excel, Python, PyTorch, Docker, Prompt Engineering, Communication",High,11,55,Startup,Low,2.11,No,3.78,Declining
+76,Financial Analyst,Education,Canada,Master,4,0.72,0.48,Yes,47710,"TensorFlow, Excel, Communication",Medium,24,40,Enterprise,Low,4.49,No,4.92,Stable
+80,Cybersecurity Analyst,Education,Pakistan,Master,12,0.66,0.55,Hybrid,63090,"Excel, Docker, Data Visualization, Python, Machine Learning, Project Management",Low,28,34,Enterprise,Moderate,4.85,No,2.78,Declining
+119,Data Engineer,Education,Japan,Bachelor,21,0.06,0.53,No,52203,"Kubernetes, Machine Learning, Leadership, PyTorch, Prompt Engineering",Low,-2,38,Medium,Moderate,3.48,Yes,1.67,Stable
+124,HR Specialist,Education,UAE,Master,12,0.72,0.64,No,210267,"Cloud Computing, Python, Kubernetes, Cybersecurity, AWS, Communication",High,27,52,Enterprise,Low,3.03,Yes,2.93,Stable
+126,Blockchain Developer,Education,Australia,Bachelor,5,0.55,0.46,Hybrid,141770,"Data Visualization, Deep Learning, Kubernetes",High,17,42,Startup,High,3.84,Yes,2.8,Stable
+139,Cybersecurity Analyst,Education,Singapore,Master,24,0.33,0.31,Hybrid,102605,"Cloud Computing, TensorFlow, Excel, Prompt Engineering",Low,44,57,Enterprise,Moderate,2.62,Yes,3.99,Stable
+156,Teacher,Education,USA,PhD,0,0.49,0.27,No,90980,"Prompt Engineering, AWS, Project Management, Machine Learning",High,2,55,Startup,Moderate,4.15,No,1.24,Declining
+160,HR Specialist,Education,UK,PhD,2,0.54,0.28,Yes,155695,"Data Visualization, PyTorch, AWS, Azure, Prompt Engineering, Kubernetes",Medium,-9,40,Medium,Low,2.22,Yes,4.55,Declining
+165,Machine Learning Engineer,Education,Germany,Bachelor,1,0.16,0.8,No,75319,"Docker, Kubernetes, Cybersecurity",Low,33,43,Startup,High,2.44,No,2.28,Growing
+173,Robotics Engineer,Education,UK,Bachelor,1,0.29,0.76,Hybrid,200778,"Machine Learning, Leadership, Communication, Docker, Data Visualization, Cybersecurity",Medium,32,40,Enterprise,Low,4.16,No,4.99,Stable
+176,Software Developer,Education,Pakistan,PhD,18,0.42,0.89,No,69525,"TensorFlow, Docker, Project Management",Low,10,57,Enterprise,Low,4.34,No,2.33,Declining
+179,Data Scientist,Education,Germany,Bachelor,6,0.37,0.35,Hybrid,135746,"PyTorch, Cybersecurity, Leadership, Azure, Deep Learning",Low,27,46,Startup,Low,3.1,Yes,2.5,Growing
+210,Cloud Architect,Education,Australia,Master,23,0.19,0.32,Yes,187816,"Docker, Communication, Prompt Engineering",Medium,33,45,Medium,Low,3.77,No,1.09,Declining
+216,Cloud Architect,Education,Singapore,PhD,25,0.45,0.75,No,72413,"TensorFlow, Cybersecurity, Cloud Computing, Excel, AWS",High,29,52,Enterprise,High,2.16,No,4.86,Declining
+218,Product Manager,Education,Japan,Bachelor,21,0.23,0.82,Yes,163837,"Prompt Engineering, Docker, Project Management",Medium,5,50,Startup,Low,2.26,No,4.12,Stable
+222,UX Designer,Education,Germany,Bachelor,7,0.71,0.39,Hybrid,93453,"Communication, Data Visualization, Prompt Engineering, Deep Learning",Medium,-1,54,Startup,Low,4.76,No,3.46,Growing
+225,HR Specialist,Education,Canada,Master,25,0.3,0.34,Yes,64377,"Prompt Engineering, PyTorch, Excel, Data Visualization, Docker, Kubernetes",High,17,57,Medium,Low,2.44,Yes,2.89,Declining
+253,Prompt Engineer,Education,Australia,High School,10,0.83,0.22,No,200239,"TensorFlow, Communication, Excel",High,24,32,Startup,Low,3.5,No,3.24,Growing
+279,Blockchain Developer,Education,Germany,Master,9,0.53,0.51,Hybrid,181501,"Cybersecurity, Kubernetes, Azure",High,9,59,Medium,High,4.95,No,4.96,Growing
+293,Data Engineer,Education,USA,PhD,22,0.44,0.87,No,48376,"Docker, AWS, Kubernetes",Low,26,47,Medium,Moderate,4.05,No,1.22,Growing
+306,DevOps Engineer,Education,UK,Master,9,0.12,0.79,Yes,211707,"Azure, AWS, Deep Learning",High,-5,30,Medium,High,2.91,No,4.43,Growing
+315,Product Manager,Education,India,Bachelor,0,0.1,0.71,Yes,182943,"Azure, Excel, Machine Learning, Data Visualization",High,44,44,Enterprise,High,4.87,No,1.78,Stable
+325,Product Manager,Education,Germany,Master,5,0.11,0.85,Hybrid,33665,"Excel, Data Visualization, Deep Learning, Communication, Project Management",Low,36,33,Startup,High,4.55,No,2.47,Growing
+326,Product Manager,Education,Australia,High School,24,0.37,0.5,No,86170,"Azure, Cloud Computing, Data Visualization, PyTorch",Low,19,33,Enterprise,Low,3.49,No,3.82,Growing
+333,Digital Marketer,Education,India,High School,22,0.42,0.24,Yes,94023,"TensorFlow, Cloud Computing, PyTorch, Data Visualization, Azure",Medium,-3,40,Startup,Low,3.62,Yes,2.84,Stable
+335,Prompt Engineer,Education,Japan,High School,22,0.29,0.43,Hybrid,180345,"AWS, Machine Learning, Prompt Engineering, Cybersecurity",Low,27,40,Medium,Low,3.7,No,2.71,Stable
+340,DevOps Engineer,Education,UK,High School,5,0.58,0.51,Yes,91849,"Cloud Computing, Leadership, Docker, PyTorch",Medium,18,43,Medium,High,2.17,No,3.8,Declining
+352,HR Specialist,Education,Japan,High School,16,0.51,0.42,Hybrid,203837,"Project Management, Data Visualization, Docker, Excel",Low,16,59,Startup,Low,4.3,Yes,4.55,Declining
+362,IoT Specialist,Education,USA,High School,13,0.58,0.68,Hybrid,207908,"SQL, AWS, TensorFlow, Deep Learning, Communication",Medium,25,32,Medium,High,3.25,No,1.47,Growing
+364,Machine Learning Engineer,Education,UK,PhD,3,0.72,0.73,No,63841,"AWS, Data Visualization, Prompt Engineering, Cybersecurity, Excel",Medium,9,37,Startup,High,2.14,Yes,2.44,Stable
+395,Digital Marketer,Education,UAE,Bachelor,7,0.87,0.59,No,30969,"Data Visualization, Cloud Computing, Azure, AWS, TensorFlow",High,39,60,Medium,High,3.13,No,1.74,Declining
+397,Healthcare Analyst,Education,India,PhD,7,0.66,0.5,No,59089,"Communication, Cloud Computing, Python, PyTorch",Medium,32,35,Enterprise,High,4.64,Yes,1.47,Declining
+413,Business Analyst,Education,Pakistan,Bachelor,6,0.1,0.2,Yes,128931,"TensorFlow, Project Management, Azure",Low,16,30,Startup,Moderate,4.46,Yes,1.88,Declining
+418,Data Scientist,Education,Pakistan,Master,7,0.76,0.53,Yes,105616,"Communication, Leadership, SQL, Kubernetes",High,-7,59,Enterprise,Low,4.4,Yes,3.43,Stable
+419,Software Developer,Education,UK,High School,5,0.49,0.95,Hybrid,43659,"Data Visualization, Azure, Python, SQL, PyTorch",High,43,55,Startup,Low,3.52,No,3.9,Stable
+420,Blockchain Developer,Education,India,PhD,2,0.6,0.44,No,181105,"Prompt Engineering, Deep Learning, PyTorch, Machine Learning",Medium,14,35,Medium,Moderate,3.27,No,4.04,Stable
+428,Cloud Architect,Education,Singapore,High School,12,0.65,0.82,Hybrid,40973,"SQL, Communication, Python",High,38,38,Medium,Moderate,4.27,No,2.35,Growing
+442,Data Scientist,Education,India,High School,16,0.38,0.63,No,140900,"Cloud Computing, Docker, Project Management",High,24,44,Startup,High,3.47,No,3.09,Stable
+444,Data Engineer,Education,Canada,Master,20,0.66,0.94,Hybrid,67550,"TensorFlow, Azure, Machine Learning, Cybersecurity",High,2,52,Medium,High,3.97,Yes,2.68,Declining
+456,Software Developer,Education,Canada,Bachelor,12,0.94,0.67,Yes,196324,"AWS, Cloud Computing, Data Visualization, Docker",Medium,2,59,Startup,Moderate,2.05,Yes,1.36,Declining
+468,Data Scientist,Education,USA,Bachelor,13,0.51,0.86,No,67181,"Kubernetes, Project Management, Cloud Computing",Low,12,50,Medium,Low,4.77,No,3.75,Growing
+485,Machine Learning Engineer,Education,Pakistan,PhD,15,0.86,0.54,No,107831,"Communication, Data Visualization, SQL, AWS",High,34,55,Startup,High,3.31,No,4.29,Growing
+487,Prompt Engineer,Education,Pakistan,Bachelor,6,0.68,0.81,Hybrid,187533,"Cloud Computing, SQL, Prompt Engineering, Excel, Kubernetes, AWS",High,-10,41,Medium,Low,2.91,No,3.01,Declining
+497,Prompt Engineer,Education,India,Bachelor,6,0.72,0.59,Hybrid,164389,"Machine Learning, Excel, Project Management, Deep Learning",High,7,60,Medium,Low,3.75,No,1.66,Declining
+503,DevOps Engineer,Education,UK,High School,6,0.79,0.31,Hybrid,114635,"Python, Deep Learning, SQL",Medium,42,58,Enterprise,Low,4.8,Yes,2.04,Declining
+526,Machine Learning Engineer,Education,Canada,High School,15,0.8,0.25,Hybrid,37738,"Cybersecurity, Leadership, Excel, Project Management, Azure",Medium,10,54,Startup,High,4.39,Yes,4.6,Declining
+531,Software Developer,Education,Singapore,Master,24,0.28,0.46,Hybrid,45569,"SQL, Leadership, PyTorch",Low,5,45,Startup,High,4.71,Yes,2.38,Declining
+539,Blockchain Developer,Education,UK,High School,8,0.74,0.41,Hybrid,129953,"Project Management, Azure, PyTorch, Kubernetes, Excel, Docker",Medium,-5,37,Enterprise,Moderate,3.01,No,1.15,Stable
+545,Cloud Architect,Education,UAE,PhD,11,0.93,0.38,Yes,112527,"Deep Learning, Leadership, Kubernetes, TensorFlow, Azure",Medium,25,46,Startup,Moderate,3.96,Yes,2.8,Stable
+553,Healthcare Analyst,Education,Singapore,High School,20,0.14,0.76,Hybrid,166654,"Leadership, SQL, PyTorch",Low,5,34,Enterprise,Moderate,4.62,Yes,3.69,Stable
+554,Product Manager,Education,USA,PhD,2,0.17,0.7,No,53255,"Cybersecurity, AWS, Data Visualization, Excel, Deep Learning, Kubernetes",High,29,36,Enterprise,Low,2.12,No,3.45,Growing
+576,Data Scientist,Education,Pakistan,PhD,2,0.61,0.22,Hybrid,74390,"Machine Learning, Data Visualization, Leadership, Project Management",Low,9,56,Enterprise,High,4.83,Yes,3.99,Growing
+582,Software Developer,Education,UK,Master,9,0.46,0.33,Yes,30221,"Project Management, Cybersecurity, Excel",Low,5,57,Startup,Moderate,2.27,Yes,1.62,Growing
+584,Machine Learning Engineer,Education,Pakistan,Master,10,0.92,0.22,Hybrid,189520,"TensorFlow, Machine Learning, Excel, Deep Learning, Leadership, AWS",Low,29,49,Medium,Low,3.94,Yes,3.0,Declining
+605,Product Manager,Education,Germany,Master,21,0.46,0.92,Yes,33198,"Prompt Engineering, Excel, AWS",Medium,30,33,Medium,High,2.2,Yes,4.88,Declining
+611,UX Designer,Education,India,PhD,9,0.93,0.72,No,139290,"Data Visualization, Kubernetes, Leadership, Communication",Low,9,40,Enterprise,Moderate,4.49,No,2.8,Stable
+690,Digital Marketer,Education,USA,High School,1,0.15,0.92,Hybrid,98355,"Prompt Engineering, Azure, Data Visualization",High,4,45,Startup,Low,2.66,Yes,4.8,Declining
+712,Business Analyst,Education,UAE,PhD,15,0.17,0.93,Yes,155931,"Docker, Python, Project Management, Azure, TensorFlow",Low,1,42,Enterprise,High,3.88,Yes,1.58,Declining
+713,Financial Analyst,Education,India,PhD,1,0.2,0.7,No,138398,"Machine Learning, AWS, Kubernetes, Project Management",Low,45,40,Medium,Low,2.58,No,2.56,Growing
+716,Product Manager,Education,Pakistan,Master,7,0.89,0.89,Hybrid,185827,"Leadership, Docker, Machine Learning, Cybersecurity, Kubernetes, Azure",Low,12,39,Startup,Moderate,3.55,No,2.11,Growing
+734,Product Manager,Education,Singapore,Master,0,0.69,0.41,No,36470,"Python, Cloud Computing, Cybersecurity, Excel",Medium,11,55,Enterprise,Moderate,3.04,No,2.14,Declining
+736,Software Developer,Education,Australia,Bachelor,13,0.25,0.23,Yes,33175,"TensorFlow, Communication, Kubernetes",Medium,25,48,Medium,Low,2.0,Yes,1.65,Declining
+760,Product Manager,Education,Australia,High School,21,0.71,0.3,Hybrid,208899,"Python, AWS, Prompt Engineering",Medium,26,55,Enterprise,Low,3.48,Yes,1.24,Declining
+769,Software Developer,Education,Germany,Bachelor,11,0.66,0.97,Yes,145679,"Azure, PyTorch, Machine Learning, SQL",Low,6,30,Enterprise,Moderate,2.36,No,3.57,Stable
+770,Data Engineer,Education,USA,PhD,22,0.16,0.84,No,186846,"Machine Learning, Leadership, Deep Learning, Project Management",High,0,51,Enterprise,High,2.02,No,4.27,Declining
+772,Blockchain Developer,Education,Japan,Bachelor,1,0.23,0.43,Yes,46062,"Data Visualization, Prompt Engineering, Docker",High,36,36,Medium,High,4.27,No,4.34,Stable
+781,Business Analyst,Education,Australia,PhD,19,0.09,0.57,No,136622,"Data Visualization, TensorFlow, SQL, Communication, Excel",Low,39,49,Enterprise,High,2.55,Yes,1.24,Declining
+806,Cybersecurity Analyst,Education,Germany,Bachelor,14,0.89,0.73,Yes,98891,"Machine Learning, Communication, Python, Prompt Engineering",Low,-2,60,Medium,Moderate,4.14,Yes,1.81,Stable
+812,Machine Learning Engineer,Education,Pakistan,Master,21,0.54,0.27,Yes,74810,"Python, Excel, Kubernetes, Prompt Engineering",Low,15,51,Enterprise,Moderate,2.04,No,3.16,Stable
+821,UX Designer,Education,USA,Bachelor,9,0.73,0.81,Hybrid,105315,"TensorFlow, Leadership, Python, Project Management, Data Visualization",High,-3,58,Enterprise,High,4.47,Yes,4.71,Declining
+829,Product Manager,Education,UK,High School,23,0.88,0.43,Yes,48243,"Cybersecurity, Excel, Data Visualization",Low,43,32,Startup,Low,3.82,Yes,3.51,Growing
+839,Cybersecurity Analyst,Education,Japan,PhD,2,0.87,0.66,Hybrid,153233,"Communication, Docker, Prompt Engineering, Python, Project Management, Cloud Computing",Low,-1,42,Startup,High,2.45,Yes,1.46,Declining
+841,HR Specialist,Education,Australia,PhD,10,0.72,0.37,Yes,106968,"Docker, Azure, Deep Learning, Cloud Computing, Project Management",High,-10,51,Startup,Moderate,3.95,No,4.11,Declining
+843,Data Scientist,Education,Japan,Master,4,0.76,0.84,Hybrid,201745,"Excel, Kubernetes, TensorFlow, PyTorch",High,21,56,Startup,Low,2.69,No,1.47,Stable
+854,Software Developer,Education,UAE,Master,1,0.14,0.92,No,56103,"PyTorch, TensorFlow, Project Management",Medium,26,38,Startup,Low,4.49,No,2.75,Declining
+862,HR Specialist,Education,India,PhD,17,0.54,0.3,Hybrid,161735,"Excel, Deep Learning, PyTorch, Cybersecurity",High,4,49,Startup,Moderate,2.41,No,2.58,Declining
+863,HR Specialist,Education,Pakistan,Bachelor,6,0.13,0.26,Hybrid,59608,"Machine Learning, PyTorch, Python, Project Management, Docker, SQL",Medium,-4,37,Startup,Moderate,4.16,Yes,2.37,Declining
+890,Teacher,Education,UK,High School,2,0.46,0.5,Yes,211721,"Data Visualization, Excel, Azure, PyTorch, SQL, Project Management",Medium,34,54,Medium,Moderate,4.55,Yes,2.52,Stable
+894,Machine Learning Engineer,Education,UK,Master,15,0.42,0.95,Yes,150417,"TensorFlow, Deep Learning, Leadership",High,0,59,Enterprise,High,2.98,No,1.02,Declining
+899,Robotics Engineer,Education,Pakistan,PhD,8,0.25,0.34,Hybrid,152754,"Cybersecurity, Excel, TensorFlow",Low,11,57,Startup,Moderate,3.59,No,4.45,Growing
+918,Software Developer,Education,UK,Bachelor,22,0.93,0.42,No,217274,"Cybersecurity, SQL, Prompt Engineering",Medium,12,57,Startup,High,4.63,Yes,2.49,Declining
+923,Blockchain Developer,Education,UK,Bachelor,12,0.32,0.68,Yes,73850,"Prompt Engineering, Deep Learning, PyTorch, Data Visualization, Python",Medium,43,33,Startup,Moderate,4.91,No,1.87,Stable
+935,Financial Analyst,Education,Germany,Bachelor,5,0.36,0.77,Yes,191315,"Data Visualization, AWS, Deep Learning",High,34,54,Medium,Low,4.1,Yes,4.57,Growing
+936,Financial Analyst,Education,UK,Bachelor,13,0.48,0.75,No,88211,"Python, Project Management, Excel, PyTorch",Low,22,41,Startup,Moderate,3.19,Yes,3.2,Stable
+946,Robotics Engineer,Education,USA,Master,5,0.13,0.81,Yes,116197,"Project Management, Prompt Engineering, Cloud Computing, Kubernetes",Low,-1,31,Startup,Low,3.76,No,4.37,Stable
+950,Robotics Engineer,Education,Canada,Master,19,0.47,0.73,No,141821,"Data Visualization, Docker, Kubernetes",High,29,57,Enterprise,High,4.29,No,2.39,Stable
+956,Cybersecurity Analyst,Education,Singapore,Master,1,0.34,0.51,Yes,52188,"Kubernetes, Project Management, Prompt Engineering, Cybersecurity, Excel",Medium,1,36,Medium,Low,4.8,Yes,1.13,Declining
+960,Digital Marketer,Education,India,PhD,14,0.23,0.21,No,35758,"Leadership, TensorFlow, Cloud Computing, AWS",Low,36,52,Startup,High,4.7,No,2.46,Declining
+977,AI Engineer,Education,Australia,PhD,13,0.23,0.78,Yes,35217,"Docker, Cloud Computing, Data Visualization, Communication, Excel",High,34,53,Startup,High,2.01,Yes,2.39,Declining
+979,DevOps Engineer,Education,Germany,Bachelor,17,0.53,0.54,Yes,149901,"SQL, Kubernetes, Azure, Prompt Engineering",High,29,58,Medium,High,4.37,Yes,1.86,Stable
+991,AI Engineer,Education,India,Master,9,0.43,0.9,No,62211,"SQL, Python, Cloud Computing, Leadership, TensorFlow, AWS",Low,28,49,Startup,Moderate,3.45,No,4.82,Growing
+994,Financial Analyst,Education,Canada,Bachelor,22,0.12,0.31,Hybrid,117298,"Leadership, Python, AWS, PyTorch",Low,-10,53,Startup,Moderate,2.38,Yes,4.79,Declining
+1007,Healthcare Analyst,Education,UK,PhD,0,0.47,0.79,Hybrid,205357,"Machine Learning, Leadership, Python, TensorFlow, Excel",High,-3,33,Enterprise,Low,4.36,Yes,1.04,Growing
+1020,DevOps Engineer,Education,UK,Bachelor,11,0.72,0.98,Yes,180558,"Kubernetes, AWS, Cybersecurity",Medium,43,39,Startup,Low,2.87,No,4.33,Growing
+1046,Blockchain Developer,Education,USA,PhD,7,0.54,0.26,No,68470,"Cloud Computing, AWS, Prompt Engineering",Low,11,51,Enterprise,Moderate,3.5,Yes,3.9,Growing
+1048,Data Scientist,Education,UAE,Bachelor,3,0.6,0.95,Hybrid,141118,"TensorFlow, SQL, Project Management",High,31,57,Enterprise,Moderate,2.16,Yes,1.81,Declining
+1056,Cybersecurity Analyst,Education,USA,High School,9,0.31,0.88,Yes,161960,"Prompt Engineering, Cloud Computing, Deep Learning, Project Management, Machine Learning",High,17,49,Startup,Low,2.95,Yes,1.19,Declining
+1079,Blockchain Developer,Education,USA,High School,18,0.07,0.69,Hybrid,61579,"Communication, TensorFlow, Cloud Computing, Azure, Machine Learning, Excel",Low,32,53,Enterprise,Moderate,2.95,Yes,2.08,Declining
+1082,HR Specialist,Education,Germany,Bachelor,24,0.09,0.59,Yes,130192,"Project Management, AWS, Docker",High,27,47,Medium,Moderate,2.29,Yes,1.66,Stable
+1089,Cloud Architect,Education,Germany,PhD,3,0.79,0.72,Yes,88440,"Communication, PyTorch, Machine Learning, Deep Learning",High,40,49,Medium,Moderate,4.14,No,2.2,Declining
+1092,Machine Learning Engineer,Education,India,Master,13,0.74,0.26,No,160078,"Kubernetes, Deep Learning, Azure, Cybersecurity, AWS",Low,22,56,Medium,High,2.77,Yes,1.66,Stable
+1093,Machine Learning Engineer,Education,Singapore,PhD,23,0.56,0.42,Hybrid,152581,"Deep Learning, TensorFlow, Cybersecurity, Prompt Engineering, Communication",Medium,-6,50,Startup,Low,3.79,Yes,3.0,Stable
+1097,Digital Marketer,Education,UAE,Master,13,0.84,0.23,Hybrid,39569,"Python, Project Management, Deep Learning, Data Visualization, Prompt Engineering, TensorFlow",High,5,36,Startup,Moderate,3.45,No,3.66,Declining
+1116,Cybersecurity Analyst,Education,India,High School,0,0.83,0.78,Yes,177855,"Project Management, Deep Learning, SQL",High,41,48,Medium,Moderate,2.46,No,1.53,Growing
+1136,Data Scientist,Education,Australia,High School,25,0.1,0.75,No,129584,"Cybersecurity, Cloud Computing, AWS, Project Management, Deep Learning",Low,9,47,Medium,Low,3.34,No,2.8,Growing
+1141,Digital Marketer,Education,Germany,Bachelor,22,0.07,0.48,Hybrid,158154,"Cloud Computing, Data Visualization, Docker",High,34,45,Startup,High,2.4,No,2.16,Declining
+1175,Product Manager,Education,Canada,Master,18,0.6,0.58,No,160707,"Python, Machine Learning, PyTorch, Cloud Computing, Docker",Medium,18,52,Startup,High,4.73,Yes,3.65,Declining
+1183,Prompt Engineer,Education,UAE,Bachelor,12,0.39,0.24,Yes,174070,"Excel, PyTorch, Project Management, Machine Learning, Docker, TensorFlow",Low,26,48,Medium,High,4.71,No,4.57,Growing
+1196,Healthcare Analyst,Education,Pakistan,Bachelor,17,0.88,0.51,Hybrid,218659,"Data Visualization, Project Management, Azure, TensorFlow, Cybersecurity",High,34,52,Medium,Low,4.29,No,3.99,Declining
+1206,AI Engineer,Education,Pakistan,Bachelor,2,0.32,0.41,No,70877,"Prompt Engineering, Communication, Leadership",Low,34,45,Enterprise,High,2.29,Yes,1.82,Growing
+1207,Cloud Architect,Education,UK,High School,18,0.82,0.9,Hybrid,159895,"SQL, Machine Learning, Leadership, TensorFlow, Deep Learning, Kubernetes",Medium,44,56,Startup,Low,2.91,No,3.68,Declining
+1234,Software Developer,Education,Canada,Bachelor,4,0.73,0.65,No,212685,"Azure, Leadership, Deep Learning, Project Management",Medium,12,49,Enterprise,High,3.51,No,2.52,Declining
+1240,Data Scientist,Education,Germany,Bachelor,2,0.31,0.72,No,150312,"Azure, Cybersecurity, Excel, SQL, PyTorch, Communication",Medium,25,51,Startup,Low,2.58,Yes,3.77,Growing
+1242,Business Analyst,Education,Germany,PhD,14,0.28,0.96,Hybrid,172380,"Docker, Communication, Cybersecurity, Prompt Engineering, PyTorch",High,14,30,Enterprise,Low,4.82,No,3.0,Growing
+1248,Product Manager,Education,Germany,Bachelor,13,0.44,0.66,Yes,216858,"Cloud Computing, Machine Learning, AWS, PyTorch, Azure, Prompt Engineering",Medium,45,31,Enterprise,Moderate,4.59,No,4.88,Growing
+1261,Business Analyst,Education,Pakistan,PhD,20,0.41,0.71,Yes,44947,"Communication, Prompt Engineering, Cybersecurity, Deep Learning, SQL",Medium,28,52,Startup,Low,2.27,Yes,1.23,Declining
+1275,Product Manager,Education,India,Bachelor,21,0.23,0.79,No,100167,"Kubernetes, PyTorch, Excel, Azure, Docker, Communication",High,25,60,Medium,High,2.48,No,4.33,Declining
+1280,Digital Marketer,Education,UAE,Master,6,0.29,0.74,Yes,206248,"Machine Learning, Cybersecurity, Azure, Project Management",High,36,58,Startup,Low,2.43,No,3.3,Stable
+1307,Cloud Architect,Education,Canada,PhD,19,0.77,0.75,Hybrid,140517,"Prompt Engineering, Data Visualization, Cloud Computing, Kubernetes, AWS",Medium,7,48,Startup,Low,2.93,Yes,1.97,Growing
+1308,DevOps Engineer,Education,Japan,High School,4,0.75,0.6,No,119586,"Excel, Project Management, Kubernetes, Communication",Medium,36,36,Enterprise,High,2.46,No,4.11,Stable
+1316,Data Scientist,Education,Pakistan,PhD,10,0.82,0.73,Hybrid,48507,"Docker, Data Visualization, TensorFlow",Medium,1,53,Enterprise,High,4.97,Yes,3.54,Declining
+1321,Product Manager,Education,USA,High School,24,0.28,0.3,Hybrid,174034,"Cloud Computing, AWS, TensorFlow, Data Visualization, Python",High,11,38,Startup,High,3.53,No,1.85,Stable
+1324,Machine Learning Engineer,Education,India,Bachelor,11,0.28,0.9,Hybrid,209068,"TensorFlow, AWS, Project Management",High,17,48,Enterprise,Moderate,2.06,No,2.3,Declining
+1330,Prompt Engineer,Education,Australia,PhD,17,0.21,0.53,No,65626,"Excel, Azure, Docker, AWS, Prompt Engineering",High,-8,46,Enterprise,High,4.74,No,4.25,Stable
+1374,Product Manager,Education,UAE,Master,11,0.34,0.47,Hybrid,40941,"Deep Learning, Project Management, Cloud Computing, Communication, Data Visualization, Excel",Medium,-8,33,Medium,Low,2.57,No,1.4,Declining
+1377,Cloud Architect,Education,Japan,High School,2,0.92,0.38,No,120546,"Cybersecurity, Kubernetes, Prompt Engineering, Docker, TensorFlow, SQL",Low,-7,49,Medium,Moderate,2.49,No,4.9,Declining
+1391,Data Scientist,Education,USA,Master,13,0.89,0.26,Hybrid,157384,"Leadership, Azure, Cloud Computing, Deep Learning",Medium,-7,58,Enterprise,Moderate,2.22,No,4.64,Growing
+1412,Robotics Engineer,Education,India,Bachelor,20,0.48,0.9,No,97602,"Azure, Deep Learning, PyTorch, Excel, TensorFlow, Docker",Medium,29,58,Medium,High,3.49,No,2.45,Declining
+1414,IoT Specialist,Education,UAE,PhD,4,0.59,0.53,No,122887,"SQL, Project Management, Python",Low,15,42,Enterprise,High,4.5,Yes,2.46,Growing
+1436,Teacher,Education,USA,PhD,22,0.25,0.32,Hybrid,110534,"Python, Machine Learning, Project Management",Medium,-4,44,Enterprise,High,4.89,No,2.26,Stable
+1447,Financial Analyst,Education,Canada,High School,11,0.25,0.54,No,148206,"Project Management, Machine Learning, Python, PyTorch, Prompt Engineering, AWS",Medium,5,32,Enterprise,Low,2.24,No,3.58,Stable
+1459,Blockchain Developer,Education,Australia,Master,10,0.29,0.3,Hybrid,207279,"Machine Learning, SQL, Communication, Leadership",Medium,-6,49,Startup,Low,4.96,Yes,4.52,Declining
+1502,Product Manager,Education,Canada,Bachelor,24,0.62,0.31,No,182733,"TensorFlow, Project Management, AWS, PyTorch, Docker, Data Visualization",Low,25,51,Medium,Low,4.95,No,1.33,Stable
+1517,Software Developer,Education,USA,PhD,0,0.42,0.83,Hybrid,65678,"Excel, PyTorch, Cloud Computing, Azure, SQL, Data Visualization",Medium,11,49,Medium,High,2.09,No,4.87,Declining
+1540,Data Scientist,Education,India,Master,18,0.15,0.77,No,71651,"Project Management, SQL, Leadership, PyTorch, Azure, Python",Medium,-9,60,Medium,Low,2.77,No,4.08,Stable
+1557,Business Analyst,Education,UAE,Bachelor,21,0.75,0.82,Hybrid,172035,"Data Visualization, Deep Learning, Leadership, Excel, Kubernetes",Medium,35,41,Medium,High,3.48,Yes,3.64,Declining
+1578,Blockchain Developer,Education,UK,Bachelor,23,0.93,0.48,Yes,132372,"Prompt Engineering, TensorFlow, Docker, Cloud Computing, Leadership, Excel",Medium,22,44,Medium,High,2.64,Yes,2.7,Stable
+1582,Product Manager,Education,UAE,Master,7,0.13,0.62,No,171491,"Azure, Project Management, Kubernetes, Deep Learning",Medium,-8,49,Medium,High,2.96,Yes,3.01,Stable
+1590,Cybersecurity Analyst,Education,India,Master,5,0.92,0.37,Yes,66830,"PyTorch, Machine Learning, Cybersecurity",Low,26,57,Medium,Low,4.0,Yes,2.91,Growing
+1604,Software Developer,Education,Canada,Bachelor,15,0.89,0.54,Hybrid,169173,"Project Management, SQL, Cybersecurity, Docker",High,45,51,Enterprise,High,2.24,Yes,3.61,Declining
+1606,Healthcare Analyst,Education,Pakistan,High School,2,0.33,0.79,No,63622,"Prompt Engineering, AWS, Cybersecurity, Data Visualization",High,33,47,Startup,High,2.08,Yes,4.94,Stable
+1610,Financial Analyst,Education,Germany,Bachelor,8,0.6,0.58,Hybrid,62107,"Prompt Engineering, Kubernetes, Machine Learning, Project Management, TensorFlow",Medium,0,49,Medium,High,3.4,Yes,1.1,Declining
+1613,Product Manager,Education,Australia,PhD,9,0.46,0.74,No,111840,"Kubernetes, SQL, Azure, Python, Cybersecurity",Medium,36,57,Medium,Moderate,2.02,Yes,1.88,Stable
+1620,Business Analyst,Education,Japan,High School,21,0.44,0.59,No,64151,"Kubernetes, Project Management, Data Visualization",Medium,-3,41,Startup,Low,2.28,Yes,1.9,Declining
+1629,HR Specialist,Education,UK,High School,7,0.23,0.62,No,135621,"Excel, Deep Learning, Prompt Engineering",High,14,39,Enterprise,High,2.13,No,4.25,Declining
+1637,Data Scientist,Education,India,Master,14,0.71,0.6,Yes,81453,"Kubernetes, Project Management, Azure, Communication",Medium,45,40,Enterprise,Moderate,4.07,Yes,4.47,Stable
+1648,HR Specialist,Education,UAE,PhD,19,0.25,0.55,Yes,105617,"Excel, Project Management, Cloud Computing, Machine Learning",Low,21,31,Enterprise,Moderate,4.62,No,3.4,Stable
+1649,Software Developer,Education,Japan,Master,25,0.81,0.28,No,141770,"PyTorch, Azure, Communication, Docker, Excel",High,44,45,Startup,Low,2.99,Yes,2.37,Declining
+1655,Digital Marketer,Education,Japan,PhD,7,0.09,0.68,No,79770,"SQL, Data Visualization, TensorFlow, Cybersecurity",High,-8,35,Startup,High,4.01,Yes,3.17,Growing
+1659,Software Developer,Education,Japan,Master,0,0.35,0.55,Yes,111514,"Prompt Engineering, Leadership, Deep Learning, SQL, TensorFlow, Data Visualization",High,14,55,Enterprise,Low,4.54,No,2.07,Growing
+1664,Cloud Architect,Education,Germany,Master,17,0.77,0.52,No,194455,"Docker, Excel, Python",Low,24,32,Enterprise,Moderate,4.97,Yes,4.33,Growing
+1672,Product Manager,Education,USA,Bachelor,8,0.22,0.88,Yes,215142,"AWS, SQL, Azure, Project Management, Cybersecurity",Medium,33,38,Medium,High,3.58,No,3.51,Growing
+1676,HR Specialist,Education,USA,High School,1,0.13,0.95,Hybrid,92063,"TensorFlow, Azure, Excel, Python, Data Visualization, Project Management",Medium,36,41,Enterprise,Low,4.32,Yes,1.99,Growing
+1683,IoT Specialist,Education,Pakistan,High School,17,0.84,0.77,Yes,139069,"Excel, Cloud Computing, PyTorch, Deep Learning, Kubernetes, Cybersecurity",High,-3,45,Enterprise,Moderate,2.79,No,4.78,Stable
+1687,HR Specialist,Education,India,Master,3,0.55,0.52,No,204182,"AWS, Docker, Cloud Computing, SQL, Machine Learning",Low,26,35,Startup,Low,3.74,Yes,2.76,Stable
+1700,Cloud Architect,Education,Australia,PhD,21,0.54,0.57,No,187249,"TensorFlow, Excel, Project Management, Communication, SQL, Docker",High,-4,59,Medium,Moderate,4.87,Yes,4.98,Stable
+1711,Software Developer,Education,India,Bachelor,13,0.5,0.93,Hybrid,67319,"Python, Communication, Machine Learning, Deep Learning, Cloud Computing",Medium,43,46,Medium,Low,4.98,Yes,4.53,Growing
+1716,Business Analyst,Education,India,Master,4,0.63,0.72,Yes,97059,"Cybersecurity, Python, Communication, Cloud Computing",Low,16,41,Startup,Low,4.41,No,4.37,Declining
+1721,Healthcare Analyst,Education,Australia,Bachelor,1,0.15,0.98,No,197132,"Docker, Leadership, Prompt Engineering, Azure, Project Management",Medium,42,39,Enterprise,Low,4.3,Yes,2.79,Growing
+1736,Financial Analyst,Education,UAE,PhD,18,0.91,0.73,Yes,125460,"TensorFlow, Project Management, PyTorch, Machine Learning",High,12,58,Enterprise,Moderate,3.96,No,1.08,Declining
+1737,Financial Analyst,Education,Japan,PhD,1,0.47,0.88,Yes,96396,"Cloud Computing, Python, Communication, Docker",Medium,-7,48,Enterprise,Low,2.42,No,2.87,Stable
+1755,Software Developer,Education,USA,High School,17,0.85,0.98,No,48970,"AWS, Cloud Computing, Cybersecurity, Data Visualization, Prompt Engineering",Medium,32,46,Enterprise,Moderate,4.36,Yes,2.47,Declining
+1785,Financial Analyst,Education,UAE,Bachelor,7,0.29,0.48,No,184107,"Cybersecurity, Leadership, Machine Learning, Excel",Medium,16,31,Medium,Low,2.85,No,2.23,Declining
+1805,Cybersecurity Analyst,Education,India,High School,13,0.06,0.29,Yes,71327,"Cloud Computing, Deep Learning, Cybersecurity",Medium,24,30,Startup,High,3.79,No,1.12,Stable
+1812,Software Developer,Education,Japan,High School,17,0.73,0.83,Hybrid,120912,"Kubernetes, Deep Learning, Leadership, Excel",High,16,51,Medium,Moderate,2.5,Yes,2.89,Stable
+1814,Machine Learning Engineer,Education,Germany,Master,14,0.77,0.62,Yes,139993,"Data Visualization, PyTorch, Prompt Engineering, AWS, Machine Learning",Medium,7,38,Medium,Moderate,4.4,Yes,3.96,Growing
+1817,Financial Analyst,Education,USA,High School,14,0.74,0.65,No,60999,"Leadership, Prompt Engineering, AWS, Data Visualization",Low,6,41,Enterprise,Low,4.39,Yes,4.43,Stable
+1818,Healthcare Analyst,Education,Canada,High School,23,0.78,0.64,Hybrid,98177,"Deep Learning, SQL, Leadership, Kubernetes",Low,-2,38,Medium,Moderate,4.71,Yes,3.97,Growing
+1831,Healthcare Analyst,Education,Singapore,Master,2,0.42,0.78,Hybrid,153151,"Cybersecurity, Project Management, Kubernetes",Low,33,60,Enterprise,Moderate,3.13,Yes,2.33,Growing
+1836,UX Designer,Education,Pakistan,High School,3,0.6,0.84,Yes,212402,"Prompt Engineering, Communication, Cloud Computing",Low,14,49,Startup,High,2.95,Yes,1.94,Declining
+1846,Digital Marketer,Education,Japan,Master,13,0.16,0.53,Yes,48809,"Leadership, Excel, Kubernetes",Low,-2,38,Medium,Low,3.53,No,2.58,Stable
+1849,DevOps Engineer,Education,UAE,High School,16,0.73,0.27,No,161703,"Python, Cloud Computing, AWS, Prompt Engineering, Docker, SQL",High,12,37,Medium,Low,3.26,Yes,1.7,Declining
+1859,Product Manager,Education,UK,Bachelor,18,0.58,0.77,Hybrid,146287,"SQL, Machine Learning, Excel",High,37,55,Medium,High,4.27,No,4.23,Declining
+1868,AI Engineer,Education,UK,Bachelor,17,0.61,0.78,Hybrid,184567,"Machine Learning, Data Visualization, Leadership, Project Management, Deep Learning",High,18,51,Medium,Moderate,3.17,No,1.15,Growing
+1869,Data Scientist,Education,Japan,PhD,17,0.85,0.82,Yes,111197,"Data Visualization, Docker, Leadership, Azure, PyTorch, SQL",High,19,39,Medium,High,4.1,Yes,1.09,Declining
+1873,Cybersecurity Analyst,Education,Australia,Master,18,0.34,0.79,No,151984,"Communication, AWS, Data Visualization, Prompt Engineering",Medium,6,52,Medium,Low,4.08,No,2.27,Stable
+1881,Product Manager,Education,Canada,Master,24,0.54,0.33,Yes,171235,"Leadership, Excel, Communication, SQL, PyTorch",Low,4,41,Medium,Low,2.08,Yes,3.02,Stable
+1886,DevOps Engineer,Education,Australia,PhD,5,0.69,0.74,Yes,131761,"Deep Learning, Cloud Computing, SQL",High,7,41,Medium,Moderate,2.22,Yes,3.13,Stable
+1888,Healthcare Analyst,Education,Singapore,High School,23,0.62,0.55,No,190558,"Project Management, PyTorch, Python",Low,9,38,Startup,Low,3.25,No,3.18,Stable
+1898,Teacher,Education,Singapore,Bachelor,11,0.54,0.35,Yes,165465,"Cloud Computing, Cybersecurity, Python, Communication, SQL",High,33,60,Enterprise,High,2.85,No,1.86,Declining
+1900,Healthcare Analyst,Education,UAE,PhD,8,0.8,0.64,Yes,95141,"Docker, Machine Learning, Azure, Data Visualization, Kubernetes, Cybersecurity",High,43,58,Enterprise,Low,4.27,Yes,1.05,Growing
+1911,Robotics Engineer,Education,USA,Master,1,0.05,0.7,Yes,154640,"Azure, Cloud Computing, Leadership, Docker, Excel, Prompt Engineering",Medium,14,60,Startup,Low,2.88,Yes,4.6,Stable
+1917,Blockchain Developer,Education,UK,High School,7,0.93,0.61,No,117275,"Excel, Machine Learning, Deep Learning",Medium,44,47,Enterprise,High,3.15,No,2.33,Stable
+1920,Blockchain Developer,Education,India,Master,25,0.58,0.37,No,75261,"Excel, Machine Learning, Prompt Engineering, Deep Learning, Communication, Cybersecurity",High,31,30,Enterprise,Low,3.87,No,2.69,Declining
+1933,Robotics Engineer,Education,Japan,High School,0,0.65,0.42,Hybrid,198437,"Communication, Azure, Deep Learning, TensorFlow, Data Visualization",Low,1,60,Startup,High,4.1,No,4.35,Growing
+1935,Digital Marketer,Education,India,Bachelor,4,0.76,0.79,No,198912,"Python, Machine Learning, Azure, Deep Learning, Excel, AWS",Low,27,37,Enterprise,Low,2.4,Yes,2.44,Stable
+1951,IoT Specialist,Education,Japan,PhD,11,0.74,0.9,Yes,81225,"Machine Learning, Prompt Engineering, Excel",Medium,30,58,Startup,High,2.95,No,2.76,Stable
+1960,IoT Specialist,Education,India,Master,1,0.25,0.43,No,174025,"Excel, Python, Data Visualization",Low,-3,49,Medium,Low,2.96,Yes,2.01,Declining
+1961,Blockchain Developer,Education,Australia,PhD,0,0.29,0.95,Hybrid,157614,"Python, AWS, PyTorch, Machine Learning, Project Management, SQL",High,38,53,Medium,High,2.34,Yes,2.76,Stable
+1964,Data Engineer,Education,UK,Bachelor,19,0.35,0.59,Yes,205325,"Machine Learning, Docker, AWS",High,39,30,Startup,Moderate,3.77,No,2.15,Growing
+1979,AI Engineer,Education,Australia,Bachelor,17,0.68,0.91,Yes,162699,"Leadership, PyTorch, Excel, AWS",Medium,8,45,Startup,Low,2.91,No,4.08,Growing
+1992,Product Manager,Education,UK,High School,6,0.63,0.91,Yes,199388,"Leadership, Deep Learning, TensorFlow",Medium,-3,58,Enterprise,High,4.33,Yes,2.93,Growing
+1993,Data Engineer,Education,Germany,Bachelor,3,0.09,0.36,Hybrid,208412,"Leadership, Deep Learning, Project Management",Medium,40,51,Enterprise,Low,3.54,Yes,2.59,Stable
+1994,Teacher,Education,Singapore,Master,6,0.17,0.25,Yes,61256,"Data Visualization, Deep Learning, PyTorch",Low,12,38,Enterprise,Low,3.69,Yes,2.44,Declining
+2004,Business Analyst,Education,Pakistan,Bachelor,0,0.08,0.9,No,207518,"Machine Learning, Project Management, TensorFlow",Low,1,55,Medium,Low,4.06,Yes,1.31,Stable
+2034,IoT Specialist,Education,Canada,Bachelor,8,0.72,0.22,Hybrid,94199,"Cloud Computing, Leadership, Docker",Low,4,45,Medium,High,2.23,No,1.03,Declining
+2045,Cybersecurity Analyst,Education,UAE,Bachelor,8,0.54,0.35,Hybrid,47645,"Communication, Project Management, Machine Learning, Leadership",High,33,38,Medium,High,3.79,Yes,4.12,Stable
+2065,Cybersecurity Analyst,Education,UAE,High School,22,0.38,0.55,Yes,89047,"Leadership, Docker, Project Management",High,34,52,Startup,High,4.08,No,3.27,Declining
+2066,Blockchain Developer,Education,UAE,Bachelor,7,0.06,0.95,Hybrid,214980,"Excel, PyTorch, Python, TensorFlow, Deep Learning, Cloud Computing",Medium,41,50,Enterprise,Low,2.25,Yes,1.39,Stable
+2090,Financial Analyst,Education,Canada,Master,23,0.22,0.44,No,142072,"PyTorch, TensorFlow, Project Management, Kubernetes",High,28,55,Medium,Moderate,4.86,Yes,2.47,Growing
+2105,AI Engineer,Education,Pakistan,PhD,11,0.42,0.54,No,52774,"PyTorch, Docker, Kubernetes, Machine Learning, Project Management",Medium,31,47,Startup,High,4.74,Yes,2.96,Declining
+2111,Financial Analyst,Education,Singapore,PhD,10,0.19,0.5,No,180212,"Machine Learning, PyTorch, Python",High,30,58,Enterprise,Moderate,4.77,Yes,1.24,Growing
+2124,Healthcare Analyst,Education,Singapore,High School,20,0.05,0.3,No,62829,"Excel, Docker, Azure, Python, TensorFlow",Low,-4,49,Enterprise,Low,2.99,Yes,4.55,Stable
+2126,Teacher,Education,Canada,Master,20,0.64,0.55,No,146933,"Kubernetes, AWS, Cybersecurity, PyTorch",Medium,31,49,Medium,Low,3.78,No,3.64,Stable
+2137,Machine Learning Engineer,Education,Canada,Master,18,0.76,0.24,No,103021,"Cloud Computing, Deep Learning, Azure, SQL, Prompt Engineering",High,5,45,Enterprise,Low,4.39,Yes,4.53,Growing
+2148,HR Specialist,Education,UAE,High School,24,0.71,0.61,No,77107,"Docker, TensorFlow, Data Visualization, AWS",Low,30,50,Medium,High,4.86,Yes,2.52,Growing
+2151,Software Developer,Education,Japan,PhD,25,0.55,0.99,No,76094,"Deep Learning, Docker, Data Visualization, Communication, Project Management",Medium,34,53,Medium,Low,4.28,No,4.17,Stable
+2174,Cybersecurity Analyst,Education,India,High School,14,0.34,0.92,No,203209,"Data Visualization, Excel, Kubernetes, AWS",Low,1,47,Startup,High,3.04,Yes,2.97,Stable
+2177,Robotics Engineer,Education,Japan,Bachelor,11,0.1,0.74,No,200071,"Kubernetes, Communication, Excel",Low,27,48,Startup,High,3.3,Yes,1.58,Stable
+2179,Healthcare Analyst,Education,USA,PhD,15,0.78,0.81,Yes,41195,"Excel, Data Visualization, Prompt Engineering",Low,36,51,Enterprise,Low,4.44,Yes,3.25,Growing
+2182,UX Designer,Education,UAE,High School,6,0.2,0.58,Hybrid,73882,"Data Visualization, TensorFlow, Kubernetes, Excel, Prompt Engineering, Cloud Computing",High,29,32,Enterprise,High,4.96,No,2.64,Stable
+2184,DevOps Engineer,Education,UAE,Master,23,0.19,0.41,Hybrid,92322,"Cloud Computing, AWS, Python",Low,19,37,Enterprise,Low,2.2,Yes,3.1,Stable
+2198,Digital Marketer,Education,UAE,Master,13,0.91,0.53,Yes,215693,"Machine Learning, PyTorch, Communication, Leadership, Cloud Computing",High,7,41,Startup,Moderate,3.45,No,3.86,Growing
+2199,Product Manager,Education,UAE,Master,9,0.42,0.62,Hybrid,208556,"Cybersecurity, Communication, Leadership, Docker, Cloud Computing",High,0,36,Enterprise,Moderate,2.11,Yes,2.07,Stable
+2201,Robotics Engineer,Education,UAE,Master,2,0.51,0.85,Hybrid,38113,"Prompt Engineering, Data Visualization, Project Management, Python, Cloud Computing, TensorFlow",Low,17,49,Enterprise,Low,3.54,No,2.28,Declining
+2216,Cloud Architect,Education,Japan,Bachelor,25,0.85,0.57,Hybrid,37707,"Kubernetes, AWS, Docker, Deep Learning, Python",High,1,40,Medium,Moderate,4.51,No,3.77,Stable
+2230,Data Engineer,Education,Germany,Bachelor,19,0.4,0.47,Hybrid,146017,"Cybersecurity, Docker, Project Management, AWS, Deep Learning, Data Visualization",Medium,3,32,Startup,High,4.05,Yes,4.88,Growing
+2237,UX Designer,Education,USA,PhD,0,0.11,0.78,No,128972,"SQL, Kubernetes, AWS, Cybersecurity",Low,25,57,Enterprise,Low,2.29,No,1.56,Declining
+2241,Healthcare Analyst,Education,Germany,Master,6,0.74,0.63,Yes,105762,"Kubernetes, TensorFlow, Leadership, Machine Learning, Cloud Computing",Medium,29,56,Enterprise,Low,2.08,No,4.39,Declining
+2243,Prompt Engineer,Education,Germany,High School,17,0.2,0.58,Yes,75948,"SQL, Prompt Engineering, Excel, Communication",High,6,47,Enterprise,High,2.04,No,4.52,Declining
+2300,Data Engineer,Education,Germany,PhD,16,0.37,0.36,Hybrid,119654,"Prompt Engineering, Azure, Communication, SQL",High,13,55,Enterprise,Low,4.19,Yes,2.36,Declining
+2306,Data Engineer,Education,USA,Master,7,0.35,0.87,Hybrid,137809,"Prompt Engineering, Cloud Computing, SQL, Project Management, AWS",Low,37,35,Startup,Moderate,2.49,No,2.1,Stable
+2318,Product Manager,Education,Australia,PhD,14,0.43,0.57,Hybrid,191881,"Communication, Prompt Engineering, Python, Excel",Low,-10,45,Startup,High,4.07,Yes,2.01,Declining
+2321,DevOps Engineer,Education,Germany,Bachelor,18,0.73,0.22,Hybrid,168577,"AWS, TensorFlow, Kubernetes, Cloud Computing",High,12,31,Medium,Moderate,4.11,No,2.71,Growing
+2323,UX Designer,Education,Australia,High School,12,0.31,0.25,Yes,63240,"Project Management, Kubernetes, Machine Learning, Docker, Azure, Excel",Medium,-10,52,Startup,High,3.91,Yes,2.76,Declining
+2325,Healthcare Analyst,Education,Canada,Master,14,0.76,0.42,No,159422,"Azure, Leadership, Excel, Python, AWS, Docker",High,32,57,Startup,Low,3.86,Yes,3.86,Declining
+2327,Data Scientist,Education,UAE,High School,0,0.1,0.63,Yes,217487,"AWS, Python, Cloud Computing, Machine Learning",Low,5,50,Startup,Low,3.51,Yes,2.03,Declining
+2338,AI Engineer,Education,Japan,Master,21,0.87,0.38,Yes,64833,"Cybersecurity, Excel, Python, Deep Learning, TensorFlow",High,35,55,Startup,Moderate,3.53,No,2.79,Stable
+2344,Healthcare Analyst,Education,Australia,Master,20,0.59,0.49,Yes,123855,"Deep Learning, Project Management, Kubernetes",Low,33,31,Enterprise,Moderate,3.31,No,2.03,Stable
+2351,Machine Learning Engineer,Education,Pakistan,Bachelor,19,0.35,0.62,Hybrid,211365,"Docker, Excel, Azure, Project Management, Machine Learning",Low,-9,55,Enterprise,Low,2.88,Yes,1.89,Stable
+2373,Blockchain Developer,Education,UK,Bachelor,17,0.35,0.49,Hybrid,132287,"PyTorch, Azure, TensorFlow",High,41,36,Medium,High,2.92,No,1.96,Stable
+2378,Financial Analyst,Education,USA,Bachelor,1,0.91,0.88,Yes,65962,"Docker, Cloud Computing, Deep Learning, SQL, Cybersecurity, Data Visualization",Medium,44,32,Startup,Low,2.05,Yes,1.84,Stable
+2382,Software Developer,Education,Singapore,High School,25,0.7,0.39,No,218150,"Cybersecurity, Kubernetes, Excel, Azure, Project Management",Low,3,33,Medium,Low,3.29,No,3.95,Growing
+2408,Digital Marketer,Education,Australia,Bachelor,4,0.42,0.89,No,190102,"Leadership, Communication, Data Visualization, Deep Learning, PyTorch",Low,33,45,Startup,High,2.26,No,3.45,Declining
+2413,DevOps Engineer,Education,Australia,Master,25,0.35,0.49,Yes,44213,"Machine Learning, Communication, TensorFlow",Medium,19,58,Enterprise,Moderate,3.95,No,2.42,Growing
+2418,Prompt Engineer,Education,Germany,Master,8,0.66,0.7,No,46910,"Deep Learning, Machine Learning, Azure, SQL, Project Management",High,-5,52,Medium,Moderate,4.6,Yes,1.97,Growing
+2423,Teacher,Education,Canada,High School,20,0.3,0.64,No,74486,"Cybersecurity, PyTorch, Azure, Machine Learning, Docker, Python",Medium,25,59,Enterprise,Moderate,2.94,No,3.76,Stable
+2426,Machine Learning Engineer,Education,Canada,Bachelor,4,0.63,0.33,Hybrid,167062,"Prompt Engineering, Docker, Leadership",High,17,45,Enterprise,Low,4.68,No,1.81,Stable
+2431,Prompt Engineer,Education,USA,PhD,25,0.38,0.93,Hybrid,142985,"AWS, Azure, Python, Cloud Computing",Medium,26,55,Enterprise,Moderate,2.96,Yes,3.33,Stable
+2445,DevOps Engineer,Education,Germany,High School,25,0.63,0.59,Yes,189186,"PyTorch, Prompt Engineering, Azure, Python",Low,12,33,Medium,Moderate,3.29,Yes,1.47,Declining
+2472,Machine Learning Engineer,Education,UAE,Bachelor,1,0.14,0.43,No,66030,"Python, Prompt Engineering, Docker, Cybersecurity, TensorFlow",Medium,-6,49,Medium,Moderate,2.65,No,1.2,Growing
+2505,Cloud Architect,Education,UAE,High School,11,0.87,0.47,Yes,151062,"Communication, Leadership, Kubernetes, Excel, Cybersecurity",Medium,0,44,Enterprise,High,3.75,Yes,3.08,Stable
+2523,Data Scientist,Education,Australia,Bachelor,5,0.09,0.77,Yes,202052,"TensorFlow, Cybersecurity, Cloud Computing, Communication",High,13,53,Startup,High,2.98,Yes,1.58,Growing
+2524,Blockchain Developer,Education,Japan,PhD,2,0.13,0.75,Hybrid,46209,"PyTorch, Excel, TensorFlow",High,8,46,Medium,High,2.96,No,2.23,Declining
+2526,DevOps Engineer,Education,USA,Master,14,0.76,0.9,Hybrid,215018,"Data Visualization, Excel, Deep Learning, PyTorch",Medium,19,52,Enterprise,Moderate,3.21,Yes,2.81,Declining
+2532,HR Specialist,Education,Canada,Bachelor,10,0.6,0.84,Yes,105928,"Machine Learning, Prompt Engineering, Kubernetes, PyTorch",High,40,53,Medium,High,4.85,Yes,4.13,Stable
+2534,Cloud Architect,Education,Pakistan,High School,6,0.71,0.95,Yes,105320,"PyTorch, Data Visualization, Machine Learning, Kubernetes",Medium,15,30,Enterprise,Moderate,2.93,No,4.38,Growing
+2536,Cybersecurity Analyst,Education,India,PhD,11,0.1,0.81,Yes,119244,"AWS, Communication, SQL, Azure, TensorFlow, Data Visualization",High,35,51,Medium,Moderate,4.08,No,3.76,Declining
+2538,Teacher,Education,Germany,PhD,14,0.79,0.7,Hybrid,91947,"PyTorch, Data Visualization, SQL, Azure, Prompt Engineering",Medium,19,38,Medium,Low,2.1,No,1.81,Stable
+2545,UX Designer,Education,Canada,Master,23,0.62,0.52,Yes,47890,"Cloud Computing, Prompt Engineering, Leadership, Cybersecurity",High,22,50,Startup,High,4.64,No,1.98,Declining
+2554,Robotics Engineer,Education,USA,High School,7,0.57,0.41,Yes,139720,"AWS, TensorFlow, Leadership, Cloud Computing, Python",Low,1,41,Medium,Moderate,2.06,Yes,1.55,Stable
+2568,Machine Learning Engineer,Education,UK,Bachelor,3,0.34,0.95,No,118793,"Data Visualization, Cybersecurity, Communication, Docker",High,24,49,Medium,Moderate,4.3,Yes,3.49,Growing
+2582,Healthcare Analyst,Education,Australia,Bachelor,15,0.53,0.49,No,112235,"PyTorch, Cybersecurity, TensorFlow, Prompt Engineering, Azure",Medium,17,41,Enterprise,High,4.67,Yes,1.67,Declining
+2631,Business Analyst,Education,Pakistan,Bachelor,7,0.47,0.32,Yes,41982,"Cybersecurity, Kubernetes, SQL",High,24,49,Enterprise,Moderate,2.2,Yes,4.83,Growing
+2633,UX Designer,Education,USA,PhD,4,0.77,0.5,Yes,150457,"Cloud Computing, Project Management, Communication, Leadership, Cybersecurity",Medium,23,32,Medium,High,4.03,No,4.24,Growing
+2651,Product Manager,Education,USA,Master,6,0.44,0.8,No,211193,"Kubernetes, SQL, PyTorch, Docker, Communication",Low,0,48,Enterprise,High,4.52,No,1.87,Declining
+2659,Machine Learning Engineer,Education,Australia,Bachelor,15,0.7,0.83,Yes,145355,"Project Management, AWS, PyTorch, Leadership",Low,-7,46,Enterprise,High,2.03,No,2.27,Stable
+2665,Healthcare Analyst,Education,UK,Master,3,0.89,0.51,No,172944,"PyTorch, AWS, Docker, Project Management, Cybersecurity",High,8,34,Medium,High,4.93,Yes,4.55,Stable
+2667,IoT Specialist,Education,Pakistan,High School,2,0.36,0.35,Hybrid,166674,"Kubernetes, Excel, Machine Learning, Prompt Engineering",Medium,20,46,Medium,Low,2.78,Yes,2.09,Growing
+2671,HR Specialist,Education,Japan,PhD,14,0.14,0.21,Yes,121733,"PyTorch, Kubernetes, SQL, TensorFlow, Azure",Low,42,52,Medium,Moderate,4.08,Yes,1.74,Stable
+2684,DevOps Engineer,Education,Japan,Master,13,0.4,0.43,Hybrid,187649,"Cybersecurity, Project Management, Data Visualization",Medium,13,46,Startup,High,2.3,Yes,4.2,Declining
+2693,Software Developer,Education,Germany,Master,10,0.43,0.81,Yes,73105,"Leadership, Deep Learning, Docker, AWS",Low,11,38,Startup,Moderate,3.48,No,2.85,Stable
+2705,Digital Marketer,Education,USA,Bachelor,23,0.73,0.89,Yes,53652,"Python, SQL, Kubernetes",Medium,42,47,Enterprise,Low,2.77,Yes,1.32,Growing
+2719,Business Analyst,Education,Singapore,PhD,22,0.22,0.75,No,130098,"Project Management, Machine Learning, Excel, Leadership, Prompt Engineering, PyTorch",High,15,40,Startup,Low,3.34,No,2.05,Stable
+2748,Healthcare Analyst,Education,UAE,Master,18,0.8,0.22,No,130267,"Python, Leadership, Data Visualization",Medium,34,41,Enterprise,High,2.59,Yes,1.34,Stable
+2750,Software Developer,Education,UK,Master,10,0.52,0.57,Hybrid,141102,"SQL, Prompt Engineering, Python, Deep Learning, Leadership, TensorFlow",High,-3,32,Enterprise,High,4.15,Yes,1.66,Stable
+2756,Teacher,Education,Pakistan,Bachelor,13,0.75,0.53,Yes,84084,"Cybersecurity, Azure, Cloud Computing, TensorFlow",Low,19,50,Medium,Low,4.58,No,2.34,Declining
+2763,Software Developer,Education,UAE,High School,12,0.17,0.43,No,76730,"Prompt Engineering, Python, SQL, Azure",Medium,4,36,Enterprise,High,2.58,No,4.66,Growing
+2781,Product Manager,Education,Australia,High School,14,0.31,0.49,Yes,122442,"Python, Cybersecurity, TensorFlow, PyTorch, Project Management",Low,25,46,Medium,High,3.73,Yes,4.17,Growing
+2808,Blockchain Developer,Education,Canada,Bachelor,22,0.24,0.85,Hybrid,95349,"Prompt Engineering, Excel, Communication",Medium,40,52,Startup,Moderate,3.65,Yes,4.08,Growing
+2810,AI Engineer,Education,Singapore,High School,12,0.46,0.53,Hybrid,81516,"Python, Communication, PyTorch, AWS",Low,26,54,Medium,High,3.18,Yes,2.87,Stable
+2813,Prompt Engineer,Education,Singapore,Bachelor,13,0.29,0.43,No,131213,"Cybersecurity, Deep Learning, Machine Learning, PyTorch, SQL, Excel",Medium,38,41,Enterprise,Moderate,2.4,No,2.86,Growing
+2867,Data Engineer,Education,USA,PhD,6,0.32,0.31,Hybrid,32036,"Cloud Computing, SQL, TensorFlow, Deep Learning, Azure",Medium,8,36,Enterprise,Moderate,2.31,No,1.67,Stable
+2885,Teacher,Education,UAE,High School,22,0.3,0.5,No,121794,"Machine Learning, Data Visualization, Kubernetes, AWS, Cloud Computing",Low,19,34,Startup,Moderate,2.42,No,3.85,Declining
+2892,HR Specialist,Education,UAE,PhD,22,0.21,0.36,Hybrid,147271,"Prompt Engineering, AWS, SQL, Azure, TensorFlow, Docker",Medium,28,30,Startup,Low,3.8,Yes,3.48,Declining
+2894,Teacher,Education,Singapore,Bachelor,24,0.93,0.66,No,111826,"Kubernetes, Cybersecurity, Prompt Engineering, PyTorch",High,4,32,Startup,High,2.04,Yes,3.86,Declining
+2898,Data Engineer,Education,India,Master,8,0.33,0.3,Yes,163419,"Docker, Deep Learning, SQL, AWS, Project Management, TensorFlow",Medium,5,45,Medium,Low,2.8,No,1.37,Stable
+2899,Product Manager,Education,Canada,High School,19,0.09,0.37,Yes,64233,"Kubernetes, Communication, AWS, Excel, Deep Learning",Medium,18,59,Startup,High,4.6,Yes,2.17,Declining
+2919,Robotics Engineer,Education,USA,Master,6,0.87,0.4,No,110126,"Kubernetes, PyTorch, Data Visualization, SQL, Docker, Prompt Engineering",Medium,38,50,Medium,Moderate,4.68,Yes,4.17,Declining
+2928,Prompt Engineer,Education,UK,Bachelor,2,0.78,0.4,Yes,171374,"Leadership, Docker, Prompt Engineering",Low,15,41,Enterprise,Moderate,4.83,No,2.13,Stable
+2942,IoT Specialist,Education,Canada,High School,0,0.68,0.52,Yes,41409,"Communication, AWS, Cloud Computing, Kubernetes, Project Management, SQL",Medium,26,45,Medium,Moderate,3.15,Yes,1.21,Declining
+2949,Business Analyst,Education,Singapore,High School,0,0.72,0.57,No,159399,"Azure, SQL, Deep Learning, Project Management",Low,6,51,Startup,Low,3.96,No,3.92,Growing
+2955,Robotics Engineer,Education,USA,PhD,4,0.92,0.59,Hybrid,192376,"Prompt Engineering, Docker, PyTorch",Medium,2,54,Medium,Moderate,2.37,No,4.31,Growing
+2962,Digital Marketer,Education,UK,Master,16,0.14,0.38,Hybrid,127979,"Cloud Computing, Cybersecurity, Azure, Project Management, Leadership",High,40,38,Enterprise,High,2.05,Yes,2.69,Stable
+2978,Digital Marketer,Education,Australia,Bachelor,15,0.95,0.93,Yes,69572,"AWS, Python, Cloud Computing, Prompt Engineering, Project Management, Azure",Medium,13,54,Startup,High,3.68,Yes,4.25,Growing
+2983,HR Specialist,Education,India,PhD,22,0.63,0.81,No,104686,"Deep Learning, TensorFlow, Docker, AWS",Low,-7,37,Medium,High,2.43,No,3.19,Stable
+2985,IoT Specialist,Education,USA,PhD,9,0.82,0.88,Hybrid,104518,"AWS, Data Visualization, TensorFlow",High,-9,34,Medium,High,3.49,Yes,4.78,Stable
+2988,Cybersecurity Analyst,Education,USA,Bachelor,25,0.53,0.47,Hybrid,141251,"PyTorch, Azure, AWS, Leadership, Machine Learning",Low,44,35,Medium,Moderate,2.65,Yes,2.58,Growing
+2995,Data Scientist,Education,India,Bachelor,0,0.62,0.27,Hybrid,202565,"Azure, Project Management, Cloud Computing, Cybersecurity, Kubernetes, Machine Learning",Medium,36,59,Enterprise,Moderate,4.54,Yes,1.27,Stable
